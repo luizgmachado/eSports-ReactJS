@@ -54,7 +54,7 @@ const channelListData = [
 	{
 		url: "https://www.twitch.tv/alanzoka",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/64d44235-1dee-4bca-95da-bee1ee96eea3-profile_image-70x70.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/64d44235-1dee-4bca-95da-bee1ee96eea3-profile_image-150x150.png",
 		alt: "Foto de Perfil Alanzoka",
 	},
 
@@ -68,35 +68,35 @@ const channelListData = [
 	{
 		url: "https://www.twitch.tv/birobirobiro",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/46e73d88-ed0a-4f47-ab56-e14c61dff6d8-profile_image-70x70.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/46e73d88-ed0a-4f47-ab56-e14c61dff6d8-profile_image-150x150.png",
 		alt: "Foto de Perfil BiroBiroBiro",
 	},
 
 	{
 		url: "https://www.twitch.tv/0rogerinho",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/83a0faf4-e404-4189-8507-f02433de175a-profile_image-70x70.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/83a0faf4-e404-4189-8507-f02433de175a-profile_image-150x150.png",
 		alt: "Foto de Perfil Orogerinho",
 	},
 
 	{
 		url: "https://www.twitch.tv/jonvlogs",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/00e7ebf9-89b9-41e1-b2bc-263b0ce805d0-profile_image-70x70.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/00e7ebf9-89b9-41e1-b2bc-263b0ce805d0-profile_image-150x150.png",
 		alt: "Foto de Perfil jonVlogs",
 	},
 
 	{
 		url: "https://www.twitch.tv/dabicarp",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/70b5c9b7-49df-42bf-af63-55d9295c4067-profile_image-70x70.jpeg",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/70b5c9b7-49df-42bf-af63-55d9295c4067-profile_image-150x150.jpeg",
 		alt: "imagem dabicarp",
 	},
 
 	{
 		url: "https://www.twitch.tv/jakeliny",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/caaa9067-d25b-4efb-b7c7-93badfd041a9-profile_image-70x70.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/caaa9067-d25b-4efb-b7c7-93badfd041a9-profile_image-150x150.png",
 		alt: "imagem jakeliny",
 	},
 ]
