@@ -118,14 +118,19 @@ const socialListData = [
 		alt: "linkedin",
 	},
 	{
-		url: "https://youtube.com/luizgmachado",
-		imageUrl: "../public/assets/youtube.svg",
-		alt: "youtube",
+		url: "https://twitter.com/luizgmachado",
+		imageUrl: "../public/assets/twitter.svg",
+		alt: "twitter",
 	},
 	{
 		url: "https://tiktok.com/luizgmachado",
 		imageUrl: "../public/assets/tiktok.svg",
 		alt: "tiktok",
+	},
+	{
+		url: "https://youtube.com/luizgmachado",
+		imageUrl: "../public/assets/youtube.svg",
+		alt: "youtube",
 	},
 ]
 
