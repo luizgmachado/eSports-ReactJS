@@ -12,7 +12,7 @@ export default function Slider(data) {
 			spacing: 15,
 		},
 	})
-
+	
 	return (
 		<ul ref={sliderRef} className="keen-slider">
 			{data.data.map((item, index) => {
