@@ -119,7 +119,7 @@ const socialListData = [
 	},
 	{
 		url: "https://youtube.com/luizgmachado",
-		imageUrl: "./assets/youtube.svg",
+		imageUrl: "/src/assets/youtube.svg",
 		alt: "youtube",
 	},
 	{
