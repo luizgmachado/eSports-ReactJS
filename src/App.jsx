@@ -1,10 +1,9 @@
-import "./App.css"
-
-import Header from "./components/Header"
-import Section from "./components/Section"
-import ListItem from "./components/ListItem"
-import Slider from "./components/Slider"
-import SliderChannel from "./components/SliderChannel"
+import "./App.css";
+import Header from "./components/Header";
+import Section from "./components/Section";
+import ListItem from "./components/ListItem";
+import Slider from "./components/Slider";
+import SliderChannel from "./components/SliderChannel";
 
 const gamesListData = [
 	{
