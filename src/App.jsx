@@ -109,27 +109,27 @@ const socialListData = [
 	},
 	{
 		url: "https://instagram.com/luizgmachado",
-		imageUrl: "../public/assets/instagram.svg",
+		imageUrl: "https://img.icons8.com/nolan/64/instagram-new.png",
 		alt: "instagram",
 	},
 	{
 		url: "https://www.linkedin.com/in/luiz-gustavo-machado-lopes/",
-		imageUrl: "../public/assets/linkedin.svg",
+		imageUrl: "https://img.icons8.com/nolan/64/linkedin.png",
 		alt: "linkedin",
 	},
 	{
 		url: "https://twitter.com/luizgmachado",
-		imageUrl: "../public/assets/twitter.svg",
+		imageUrl: "https://img.icons8.com/nolan/64/twitter-squared.png",
 		alt: "twitter",
 	},
 	{
 		url: "https://tiktok.com/luizgmachado",
-		imageUrl: "../public/assets/tiktok.svg",
+		imageUrl: "https://img.icons8.com/nolan/64/tiktok.png",
 		alt: "tiktok",
 	},
 	{
 		url: "https://youtube.com/luizgmachado",
-		imageUrl: "../public/assets/youtube.svg",
+		imageUrl: "https://img.icons8.com/nolan/64/youtube-play.png",
 		alt: "youtube",
 	},
 ]
