@@ -29,13 +29,13 @@ const gamesListData = [
 	{
 		url: "https://www.twitch.tv/directory/game/VALORANT",
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/516575-188x250.jpg",
-		alt: "imagem do jogo VALORANT",
+		alt: "imagem do jogo Valorant",
 	},
 
 	{
 		url: "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/512710-188x250.jpg",
-		alt: "imagem do jogo Call'Duty Warzone",
+		alt: "imagem do jogo COD Warzone",
 	},
 
 	{
@@ -43,7 +43,7 @@ const gamesListData = [
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-188x250.jpg",
 		alt: "imagem do jogo CSGO",
 	},
-	
+
 	{
 		url: "https://www.twitch.tv/directory/game/Warcraft%20III",
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/12924-285x380.jpg",
