@@ -167,6 +167,7 @@ function App() {
 				</Section>
 				
 			</main>
+			
 		</div>
 	)
 }
