@@ -135,6 +135,7 @@ function App() {
 			<Header />
 
 			<main>
+
 				<Section
 					title="Meus Jogos"
 					subtitle="Os games que eu mais curto jogar!"
@@ -164,6 +165,7 @@ function App() {
 						)
 					})}
 				</Section>
+				
 			</main>
 		</div>
 	)
