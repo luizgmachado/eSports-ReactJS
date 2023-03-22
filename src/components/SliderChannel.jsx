@@ -8,8 +8,8 @@ export default function Slider(data) {
 	const [sliderRef] = useKeenSlider({
 		slides: {
 			loop: true,
-			perView: 3,
-			spacing: 0,
+			perView: 4,
+			spacing: 15,
 		},
 	})
 

@@ -1,15 +1,27 @@
-/** @format */
-
 import "./App.css"
 
 import Header from "./components/Header"
 import Section from "./components/Section"
 import ListItem from "./components/ListItem"
 import Slider from "./components/Slider"
+import SliderChannel from "./components/SliderChannel"
 
 const gamesListData = [
 	{
-		url: "https://https://www.twitch.tv/directory/game/Grand%20Theft%20Auto%20V.twitch.tv/alanzoka",
+		url: "https://www.twitch.tv/directory/game/Hogwarts%20Legacy",
+		imageUrl:
+			"https://static-cdn.jtvnw.net/ttv-boxart/1095275650_IGDB-285x380.jpg",
+		alt: "Hogwarts Legacy",
+	},
+
+	{
+		url: "https://www.twitch.tv/directory/game/Call%20of%20Duty%3A%20Modern%20Warfare%20II",
+		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/1678052513-285x380.jpg",
+		alt: "Hogwarts Legacy",
+	},
+
+	{
+		url: "https://www.twitch.tv/directory/game/Grand%20Theft%20Auto%20V",
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg",
 		alt: "imagem do jogo GTA5",
 	},
@@ -31,6 +43,12 @@ const gamesListData = [
 		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-188x250.jpg",
 		alt: "imagem do jogo CSGO",
 	},
+	
+	{
+		url: "https://www.twitch.tv/directory/game/Warcraft%20III",
+		imageUrl: "https://static-cdn.jtvnw.net/ttv-boxart/12924-285x380.jpg",
+		alt: "imagem do jogo Warcraft",
+	},
 ]
 
 const channelListData = [
@@ -38,21 +56,35 @@ const channelListData = [
 		url: "https://www.twitch.tv/alanzoka",
 		imageUrl:
 			"https://static-cdn.jtvnw.net/jtv_user_pictures/64d44235-1dee-4bca-95da-bee1ee96eea3-profile_image-70x70.png",
-		alt: "imagem Alanzoka",
+		alt: "Foto de Perfil Alanzoka",
 	},
 
 	{
 		url: "https://www.twitch.tv/loud_coringa",
 		imageUrl:
 			"https://static-cdn.jtvnw.net/jtv_user_pictures/c07acddc-1e1b-479f-97c4-09636f80e857-profile_image-150x150.png",
-		alt: "Imagem loud_coringa",
+		alt: "Foto de Perfil loud_coringa",
+	},
+
+	{
+		url: "https://www.twitch.tv/birobirobiro",
+		imageUrl:
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/46e73d88-ed0a-4f47-ab56-e14c61dff6d8-profile_image-70x70.png",
+		alt: "Foto de Perfil BiroBiroBiro",
+	},
+
+	{
+		url: "https://www.twitch.tv/0rogerinho",
+		imageUrl:
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/83a0faf4-e404-4189-8507-f02433de175a-profile_image-70x70.png",
+		alt: "Foto de Perfil Orogerinho",
 	},
 
 	{
 		url: "https://www.twitch.tv/jonvlogs",
 		imageUrl:
 			"https://static-cdn.jtvnw.net/jtv_user_pictures/00e7ebf9-89b9-41e1-b2bc-263b0ce805d0-profile_image-70x70.png",
-		alt: "imagem jonVlogs",
+		alt: "Foto de Perfil jonVlogs",
 	},
 
 	{
@@ -115,16 +147,7 @@ function App() {
 					title="Canais e Stremers"
 					subtitle="Lista de canais e trasmissões que não perco!"
 					className="channel-list">
-					{channelListData.map((item, index) => {
-						return (
-							<ListItem
-								key={index}
-								url={item.url}
-								imageUrl={item.imageUrl}
-								alt={item.alt}
-							/>
-						)
-					})}
+					<SliderChannel data={channelListData} />
 				</Section>
 
 				<Section

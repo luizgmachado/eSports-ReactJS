@@ -50,7 +50,7 @@ header div:hover {
 }
 
 main {
-  max-width: 36rem;
+  max-width: 35rem;
   width: 90%;
   margin: 3.2rem auto;
 
@@ -116,15 +116,9 @@ section ul li:hover {
 }
 
 .channel-list img {
-  width: 5.5rem;
+  width: 6.5rem;
   border-radius: 50%;
   border: 2px solid #443e54;
-}
-
-.channel-list {
-  display: flex;
-  gap: 1rem;
-  justify-content: space-between;
 }
 
 .social-list img {
