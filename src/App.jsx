@@ -104,27 +104,27 @@ const channelListData = [
 const socialListData = [
 	{
 		url: "https://github.com/luizgmachado",
-		imageUrl: "./public/github.svg",
+		imageUrl: "/public/github.svg",
 		alt: "github",
 	},
 	{
 		url: "https://instagram.com/luizgmachado",
-		imageUrl: "./public/instagram.svg",
+		imageUrl: "/public/instagram.svg",
 		alt: "instagram",
 	},
 	{
 		url: "https://www.linkedin.com/in/luiz-gustavo-machado-lopes/",
-		imageUrl: "./public/linkedin.svg",
+		imageUrl: "/public/linkedin.svg",
 		alt: "linkedin",
 	},
 	{
 		url: "https://youtube.com/luizgmachado",
-		imageUrl: "./public/youtube.svg",
+		imageUrl: "/public/youtube.svg",
 		alt: "youtube",
 	},
 	{
 		url: "https://tiktok.com/luizgmachado",
-		imageUrl: "./public/tiktok.svg",
+		imageUrl: "/public/tiktok.svg",
 		alt: "tiktok",
 	},
 ]
