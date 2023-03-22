@@ -144,8 +144,8 @@ function App() {
 				</Section>
 
 				<Section
-					title="Canais e Stremers"
-					subtitle="Lista de canais e trasmissões que não perco!"
+					title="Canais e Streamers"
+					subtitle="Lista de canais e transmissões que não perco!"
 					className="channel-list">
 					<SliderChannel data={channelListData} />
 				</Section>
