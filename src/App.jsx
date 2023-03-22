@@ -104,7 +104,7 @@ const channelListData = [
 const socialListData = [
 	{
 		url: "https://github.com/luizgmachado",
-		imageUrl: "../public/assets/github.svg",
+		imageUrl: "../public/assets/github.png",
 		alt: "github",
 	},
 	{
