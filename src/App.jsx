@@ -109,7 +109,7 @@ const socialListData = [
 	},
 	{
 		url: "https://instagram.com/luizgmachado",
-		imageUrl: "/public/instagram.svg",
+		imageUrl: "../public/instagram.svg",
 		alt: "instagram",
 	},
 	{
