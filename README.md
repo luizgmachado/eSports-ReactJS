@@ -8,6 +8,7 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
+
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
@@ -20,7 +21,7 @@
 - Figma do projeto disponível no 🔗 [Figma](https://www.figma.com/file/dUlDOXSsSd3kTECFxZaBN1/NLW-eSports---Desafio-Extra-(Copy)?node-id=6%3A131&t=vp76gtgW5fPstpcG-0)
 
 
-![image](https://user-images.githubusercontent.com/108701750/190295166-6f0144e2-84fd-4c8c-87cc-a15450d54e85.png)
+![image](https://user-images.githubusercontent.com/108701750/227625890-bfcd5f8c-b5f9-49f0-a642-4c6ee9ce5f4b.png)
 
 #
 
