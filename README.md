@@ -29,7 +29,7 @@
 
 > Esse projeto realizado com as seguintes tecnologias:
 
-- React.JS 
+- [React.JS](https://react.dev/)
 - [Vite](https://vitejs.dev/guide/)
 - JavaScript 
 - [Keen slider](https://keen-slider.io/)
