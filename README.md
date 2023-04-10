@@ -27,7 +27,7 @@
 
 ### 🚀 Tecnologias
 
-> Esse projeto realizado com as seguintes tecnologias:
+Esse projeto realizado com as seguintes tecnologias:
 
 - [React.JS](https://react.dev/)
 - [Vite](https://vitejs.dev/guide/)
@@ -39,11 +39,11 @@
 
 ### 💻 Projeto
 
-> O Projeto desenvolvido é uma aplicação voltada para Games destacarem seus melhores jogos e streamings favoritos
+O Projeto desenvolvido é uma aplicação voltada para Games destacarem seus melhores jogos e streamings favoritos
 
 #
 
 ## :memo: Licença
 
-> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
