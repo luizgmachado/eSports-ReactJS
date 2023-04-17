@@ -68,7 +68,7 @@ const channelListData = [
 	{
 		url: "https://www.twitch.tv/birobirobiro",
 		imageUrl:
-			"https://static-cdn.jtvnw.net/jtv_user_pictures/46e73d88-ed0a-4f47-ab56-e14c61dff6d8-profile_image-150x150.png",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/7b74d2c9-e31d-4237-b41e-8426892415e5-profile_image-150x150.jpeg",
 		alt: "Foto de Perfil BiroBiroBiro",
 	},
 
