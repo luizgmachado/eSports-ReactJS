@@ -1,5 +1,3 @@
-/** @format */
-
 import "keen-slider/keen-slider.min.css"
 
 export default function ListItem(props) {
