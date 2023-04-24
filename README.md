@@ -16,7 +16,7 @@
 
 ### 🔖 Layout
 
-- Projeto disponível no 🔗 [Deploy](https://nlwsportsreactjs.netlify.app). 
+- Projeto disponível no 🔗 [Deploy](https://nlwsportsreactjs.netlify.app)
 
 - Figma do projeto disponível no 🔗 [Figma](https://www.figma.com/file/dUlDOXSsSd3kTECFxZaBN1/NLW-eSports---Desafio-Extra-(Copy)?node-id=6%3A131&t=vp76gtgW5fPstpcG-0)
 
