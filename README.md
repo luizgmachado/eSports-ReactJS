@@ -39,7 +39,8 @@ Esse projeto realizado com as seguintes tecnologias:
 
 ### 💻 Projeto
 
-O Projeto desenvolvido é uma aplicação voltada para Games destacarem seus melhores jogos e streamings favoritos
+O Projeto desenvolvido é uma aplicação voltada ao mundo dos Games destacando os seus melhores jogos e streamings favoritos
+
 
 #
 
